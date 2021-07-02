@@ -1,0 +1,2 @@
+The time complexity of the clear function is Big O(n), where n is the number of nodes. 
+This is because each node has to be visited deleted before deleting the parent.
